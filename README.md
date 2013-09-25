@@ -1,6 +1,7 @@
-angular-todo
+Angular ToDo
 ============
 
 Simple AngularJS+Firebase sample application
 
-Use <pre><code>grunt server</code></pre> to start application.
+To start application use:
+<pre><code>grunt server</code></pre>
